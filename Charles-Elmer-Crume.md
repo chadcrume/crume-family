@@ -1,3 +1,5 @@
+This is our family tree starting with Charlie and Jessie Crume.
+
 0. Charles (“Charlie”) Elmer Crume,
 
    * m. Jessie Beatrice Bell m. ?

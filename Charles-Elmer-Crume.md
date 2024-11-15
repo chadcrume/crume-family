@@ -1,6 +1,6 @@
 0. Charles (“Charlie”) Elmer Crume,
 
-   m. Jessie Beatrice Bell m. ?
+   married Jessie Beatrice Bell m. ?
    m. Eunice Humphrey b. June 13, 1919. m. July 22, 1950 No childern.
 
    1. “Paul” Ernest Paul Crume born Feb. 24, 1912 D. Nov. 16, 1975 

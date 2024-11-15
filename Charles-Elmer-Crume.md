@@ -179,7 +179,7 @@ This is our family tree starting with Charlie and Jessie Crume.
             2.  Shauna
 
                 1.  Austin
-                   1.  Asher
+                    1.  Asher
                 2.  Cason
                 3.  Tatum
 
@@ -188,14 +188,14 @@ This is our family tree starting with Charlie and Jessie Crume.
             * m. Jerry Roberts
 
             1.  Gwindolyn
-               1.  Calie Taylor
-               2.  Devin
+                1.  Calie Taylor
+                2.  Devin
                    
-                   * m. Sarah
+                    * m. Sarah
 
-                   1.  Lilahmae
-                   2.  Jordan
-                   3.  Olivia
+                    1.  Lilahmae
+                    2.  Jordan
+                    3.  Olivia
             
             (Cindy cont.)
             * m. Jerry Hodge
@@ -222,18 +222,18 @@ This is our family tree starting with Charlie and Jessie Crume.
             * m. Mary
 
             1.  Jenny
-               1.  Shelby Crume
-               2.  Brody Choplin
-               3.  Kadence Lavin (adopted)
-               4.  Landon Lavin (adopted)
+                1.  Shelby Crume
+                2.  Brody Choplin
+                3.  Kadence Lavin (adopted)
+                4.  Landon Lavin (adopted)
             2.  Bob
             
         2.  David Lee Crume b. Dec. 10. 1952.
             
             * m. Debbie
 
-            1.  Candice
-               1.  Ryland
+            1.  "Candy" Candice
+                1.  Ryland
 
     9.  “Billy Don” William Don Crume.b. Dec. 20, 1934 
 

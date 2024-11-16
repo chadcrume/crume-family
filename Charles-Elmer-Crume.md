@@ -17,7 +17,7 @@ This is our family tree starting with Charlie and Jessie Crume.
         1.  Bobby Joe Crume b. Sept. 27, 1935 
 
             * m. Ginger
-            * ? - m. Barbara Wubben Sept. 1958
+            <!-- * ? - m. Barbara Wubben Sept. 1958 -->
 
             1.  Kathy Jo Crume b. July 15, 1959
             2.  Karen 
@@ -183,7 +183,7 @@ This is our family tree starting with Charlie and Jessie Crume.
                 2.  Cason
                 3.  Tatum
 
-        2.  Cindy Lou Cason b. Dec. 23, 1956
+        2.  Cindy Lu Cason b. Dec. 23, 1956
             
             * m. Jerry Roberts
 
@@ -211,7 +211,7 @@ This is our family tree starting with Charlie and Jessie Crume.
             * m. Jerry Belew
 
         (Mary Lou cont.)
-        * m. Guin Taylor 1967 
+        * m. Gwin Taylor 1967 
 
     8.  “Junior” Charles Leroy Crume b. Dec. 16, 1926 
 
@@ -258,7 +258,7 @@ This is our family tree starting with Charlie and Jessie Crume.
 
         2.  Carter Lynn Crume b. Jan 28, 1958 
             
-            * m. Naomi
+            * m. Nancy
 
             1.  Sarah
             2.  Samuel
